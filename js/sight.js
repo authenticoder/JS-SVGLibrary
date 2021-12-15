@@ -21,5 +21,7 @@ class SVGElement {
 }
 
 class Sight {
-    
+    constructor(selector, width, height) {
+        
+    }
 }
