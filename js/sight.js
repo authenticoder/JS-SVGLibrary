@@ -5,4 +5,8 @@ class SVGElement {
         this.node = document.createElementNS(this.namespace, this.type);
         return this;
     }
+
+    attr(attrs) {
+        return this;
+    }
 }
